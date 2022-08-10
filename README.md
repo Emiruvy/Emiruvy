@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emiruvy
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on modelling
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me on Twitter: @1_immi
 
 <!---
