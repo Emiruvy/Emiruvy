@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Emiruvy
-- 👀 I’m interested in data science
+- 👋 Hi, I’m Mi
+- 👀 I’m interested in data engineer and cloud computing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me on Twitter: @1_immi
+- 📫 How to reach me on Linkedin: @mynguyen1120
 
 <!---
 Emiruvy/Emiruvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
